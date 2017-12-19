@@ -1,0 +1,54 @@
+make_group
+0
+make_group
+8
+add_to_group
+Dream Theater
+The Ministry of Lost Souls
+2007
+Systematic Chaos
+8
+add_to_group
+Anthrax
+1000 Points of Hate
+1993
+Sound of White Noise
+0
+add_to_group
+Dub War
+Pain
+1995
+Pain
+0
+add_to_group
+Great Big Sea
+Fortune
+2002
+Sea of No Cares
+0
+print_group_rewind
+Dub War
+Pain
+1995
+Pain
+0
+print_longest_group_rewind
+0
+add_to_group
+Dream Theater
+Moment Of Betrayal
+2015
+The Astonishing
+8
+add_to_group
+Dream Theater
+Digital Discord
+2015
+The Astonishing
+8
+print_group_marathon
+Dream Theater
+The Ministry of Lost Souls
+2007
+Systematic Chaos
+8

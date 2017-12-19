@@ -1,0 +1,28 @@
+make_group
+0
+make_group
+8
+add_to_group
+Dream Theater
+The Ministry of Lost Souls
+2007
+Systematic Chaos
+8
+add_to_group
+Dream Theater
+Digital Discord
+2015
+The Astonishing
+8 
+add_to_group
+Dream Theater
+Moment Of Betrayal
+2015
+The Astonishing
+8
+print_group_marathon
+Dream Theater
+The Ministry of Lost Souls
+2007
+Systematic Chaos
+8
